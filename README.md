@@ -9,4 +9,3 @@ This folder contains the consolidated files for the final machine learning proje
 - **`requirements.txt`**: The project's Python dependencies.
 - **`videos/demo_road_traffic.mp4`**: A representative demo video. 
 
-*Note: The larger 16GB and 5GB raw video files have been excluded to respect GitHub's 100MB file size limit.*
